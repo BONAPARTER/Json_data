@@ -1,0 +1,17 @@
+[
+    {
+        "name": "United States",
+        "info": "Capital: Washington, D.C.",
+        "flag": "https://example.com/flags/us.png"
+    },
+    {
+        "name": "Canada",
+        "info": "Capital: Ottawa",
+        "flag": "https://example.com/flags/ca.png"
+    },
+    {
+        "name": "Germany",
+        "info": "Capital: Berlin",
+        "flag": "https://example.com/flags/de.png"
+    }
+]
