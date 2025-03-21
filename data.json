@@ -1,38 +1,38 @@
 [
     {
-        "name": "United States",
-        "info": "Capital: Washington, D.C.",
-        "flag": "https://abali.ru/wp-content/uploads/2011/01/alemania.png"
+        "name": "Карьера программиста. 6-е издание (2023)",
+        "info": "Автор: Гейл Лакман Макдауэлл",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/4d4/c05/bb7/4d4c05bb7bfd2b9c25a13e2a06dc011e.png"
     },
     {
-        "name": "Canada",
-        "info": "Capital: Ottawa",
-        "flag": "https://seoportal.net/images/baza/izobrazheniya/svg/svg-primer.svg"
+        "name": "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих",
+        "info": "Автор: Адитья Бхаргава",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/f8c/c0b/51b/f8cc0b51bbe847c7af9fd067245806ab.jpg"
     },
     {
-        "name": "Germany",
-        "info": "Capital: Berlin",
-        "flag": "https://seoportal.net/images/baza/izobrazheniya/svg/svg-primer.svg"
+        "name": "Современный подход к программной архитектуре",
+        "info": "Авторы: Нил Форд, Марк Ричардс",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/94a/50b/2a0/94a50b2a07dc45f6389de6ef3e523b5d.jpg"
     },
     {
-        "name": "Unied States",
-        "info": "Capital: Washington, D.C.",
-        "flag": "https://abali.ru/wp-content/uploads/2011/01/alemania.png"
+        "name": "Чистая архитектура. Искусство разработки программного обеспечения",
+        "info": "Автор: Роберт Мартин",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/b21/a7f/d75/b21a7fd7510642c3fae2d58eeefe8fcd.jpg"
     },
     {
-        "name": "Canad",
-        "info": "Capital: Ottawa",
-        "flag": "https://seoportal.net/images/baza/izobrazheniya/svg/svg-primer.svg"
+        "name": "Паттерны проектирования API",
+        "info": "Автор: Джей Гивакс",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/8a4/5d2/0cc/8a45d20ccdd6667c7a2522aa810e4b28.png"
     },
     {
-        "name": "ermany",
-        "info": "Capital: Berlin",
-        "flag": "https://seoportal.net/images/baza/izobrazheniya/svg/svg-primer.svg"
+        "name": "Математические алгоритмы для программистов",
+        "info": "Автор: Пол Орланд",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/566/9f7/2ca/5669f72ca3bd5b7a0c3f4cb9741cc60c.png"
     },
     {
-        "name": "United Staes",
-        "info": "Capital: Washington, D.C.",
-        "flag": "https://abali.ru/wp-content/uploads/2011/01/alemania.png"
+        "name": "Современная программная инженерия. ПО в эпоху эджайла и непрерывного развёртывания",
+        "info": "Автор: Дэвид Фарли",
+        "flag": "https://habrastorage.org/r/w1560/getpro/habr/upload_files/1dd/ca0/240/1ddca0240e6c289b824bc3013ab75500.png"
     },
     {
         "name": "Cada",
